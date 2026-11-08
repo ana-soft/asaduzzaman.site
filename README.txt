@@ -9,3 +9,5 @@ IMPORTANT: The domain was not confirmed. If using a different domain, update the
 Candidate contact: 01713075761
 Business role: Managing Director, Great One Associates Ltd.
 Address: 83/B Siddeshwari Circular Road, Malibag, Dhaka
+
+UPDATED: Added 3 supplied election reference images: AEB election pledges, Headquarters & Dhaka Centre candidates, and divisions & chapters candidates. New menu items: Pledges, Candidate Lists. Full-size open and download links added.
